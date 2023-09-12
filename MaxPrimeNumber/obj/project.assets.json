@@ -4141,24 +4141,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\RiderProjects\\MaxPrimeNumber\\src\\MaxPrimeNumber\\MaxPrimeNumber.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\RiderProjects\\MaxPrimeNumber\\MaxPrimeNumber\\MaxPrimeNumber.csproj",
       "projectName": "MaxPrimeNumber",
-      "projectPath": "C:\\Users\\User\\RiderProjects\\MaxPrimeNumber\\src\\MaxPrimeNumber\\MaxPrimeNumber.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\RiderProjects\\MaxPrimeNumber\\src\\MaxPrimeNumber\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\RiderProjects\\MaxPrimeNumber\\MaxPrimeNumber\\MaxPrimeNumber.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\RiderProjects\\MaxPrimeNumber\\MaxPrimeNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Users\\Lenovo\\.dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4229,7 +4230,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Lenovo\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

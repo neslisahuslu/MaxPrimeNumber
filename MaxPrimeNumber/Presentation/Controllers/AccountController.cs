@@ -73,8 +73,7 @@ public class AccountController : Controller
     }
 
 
-
-
+    
     [HttpPost("registerAction")]
     public async Task<IActionResult> Register(RegisterViewModel model)
     {

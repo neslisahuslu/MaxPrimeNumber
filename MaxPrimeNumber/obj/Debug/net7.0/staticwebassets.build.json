@@ -1,11 +1,54 @@
 {
   "Version": 1,
-  "Hash": "t1FRoohWkL1nV5NqVg8Dt6GEtu85159XlYqyX1j73mQ=",
+  "Hash": "DSTEEALfEn9BQTAxECWfIUXBe4xPS+6q2K9AyM7Do+Y=",
   "Source": "MaxPrimeNumber",
   "BasePath": "_content/MaxPrimeNumber",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "MaxPrimeNumber\\wwwroot",
+      "Source": "MaxPrimeNumber",
+      "ContentRoot": "C:\\Users\\Lenovo\\RiderProjects\\MaxPrimeNumber\\MaxPrimeNumber\\wwwroot\\",
+      "BasePath": "_content/MaxPrimeNumber",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lenovo\\RiderProjects\\MaxPrimeNumber\\MaxPrimeNumber\\wwwroot\\css\\styles.css",
+      "SourceId": "MaxPrimeNumber",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\RiderProjects\\MaxPrimeNumber\\MaxPrimeNumber\\wwwroot\\",
+      "BasePath": "_content/MaxPrimeNumber",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\RiderProjects\\MaxPrimeNumber\\MaxPrimeNumber\\wwwroot\\js\\scripts.js",
+      "SourceId": "MaxPrimeNumber",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\RiderProjects\\MaxPrimeNumber\\MaxPrimeNumber\\wwwroot\\",
+      "BasePath": "_content/MaxPrimeNumber",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    }
+  ]
 }

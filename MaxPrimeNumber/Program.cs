@@ -49,6 +49,18 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+//hic bir sey kurmadim wwwroot dosyasi statik dosyalar icin kullaniliyor oraya atcaksin dosyalarini
+// bu dosyalari aktiflestirmek icin de program.cs e app.useStaticFiles() methodunu kullandik bu kadar
+// adam hic boyle yapmadı onunkı nasıl oldu pekı
+// bilmiyorum dogrusu bu tamam css dosylarını buraya mı koycam 
+//evet tamam yavrum Allah razı olsun senden ıyı mı bu template gayet iyi ugrasma daha fazla templatela falan yok ugrasmamak ıcın aldım ıste 
+// sımdı zort denılen yerdeyım degısık bır sıstemı var 
+// sayfaları tanımlamak lazım ındex de anladıgım kadarıyla allooo
+// hangi sayfalari logın regıster zart zurt 
+// normal link a href olarak tanimlicaksin bir sey yok ki onda 
+// adam bır yere tanımladı gerek yok
+
+app.UseStaticFiles();
 
 app.UseHttpsRedirection();
 
